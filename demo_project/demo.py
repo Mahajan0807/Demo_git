@@ -2,3 +2,4 @@
 name = input("What is your name? ")
 print(f"by, {name}! Welcome to Python.")
 print("newcode")
+print(f"Hi, {name}! Welcome to Python.")
